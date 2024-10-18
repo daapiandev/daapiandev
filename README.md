@@ -1,19 +1,19 @@
-# i am daap
+# i am daap👋🏻
 ye 100%
 
 
-# i am hacking lord!!!!!
+# i am hacking lord!!!!!👋🏻
 
 # i use
--vs coder
+- vs coder🔥
 
 
 # my supported languages
-- js
-- python
-- go (its trash but okay)
+- js🔥
+- python🔥
+- go (its trash but okay)🔥
 
-# Contact
+# Contact🤙🏻
 discord: daap._ (contact me for project idea's/bugs/issues)
 
 # graphics

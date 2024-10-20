@@ -5,7 +5,7 @@ ye 100%
 # i am hacking lord!!!!!👋🏻
 
 # i use
-- vs coder🔥
+- vs code🔥
 
 
 # my supported languages

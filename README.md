@@ -1,5 +1,5 @@
 # i am daap👋🏻
-ye 100%
+ye 100% i only post small projects on here !
 
 
 # i am hacking lord!!!!!👋🏻

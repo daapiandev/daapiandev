@@ -14,7 +14,8 @@ ye 100% i only post small projects on here !
 - go (its trash but okay)🔥
 
 # Contact🤙🏻
-discord: daap._ (contact me for project idea's/bugs/issues)
+discord: daapv2 (contact me for project idea's/bugs/issues)]
+(new dizzy)
 
 # graphics
 

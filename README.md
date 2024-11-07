@@ -1,24 +1,19 @@
-# i am daap👋🏻
-ye 100% i only post small projects on here !
+<h1 align="center">hey i am daap daapiandev</h1>
+<h3 align="center">Python,javascript,Go dev</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daapiandev&label=Profile%20views&color=0e75b6&style=flat" alt="daapiandev" /> </p>
 
-# i am hacking lord!!!!!👋🏻
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daapiandev" alt="daapiandev" /></a> </p>
 
-# i use
-- vs code🔥
+- 🔭 Not working on anything currently [Gimkit project check it out!](https://github.com/daapiandev/gimkit-gen)
 
+- 📫 How to reach me DISCORD: daapv2 **discord: daapv2**
 
-# my supported languages
-- js🔥
-- python🔥
-- go (its trash but okay)🔥
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-# Contact🤙🏻
-discord: daapv2 (contact me for project idea's/bugs/issues)]
-(new dizzy)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-# graphics
-
-- patato nigger pc
-- 0,312 ram
-- 2 iq 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daapiandev&show_icons=true&locale=en" alt="daapiandev" /></p>

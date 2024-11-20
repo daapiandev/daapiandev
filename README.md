@@ -10,12 +10,7 @@
 
 
 
-
-
-- 📫 How to reach me DISCORD: daapv2 **discord: daapv2**
-
-
-<h3 align="left">Connect with me: daapv2 (discord)</h3>
+<h3 align="left">Connect with me: jayjayswanse (discord)</h3>
 <p align="left">
 </p>
 

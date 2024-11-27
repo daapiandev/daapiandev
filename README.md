@@ -5,7 +5,7 @@
 
 <h3 align="center">Python,javascript,Go dev</h3>
 
-- 🔭 working on shodan gen
+- 🔭 not working rn
 
 
 

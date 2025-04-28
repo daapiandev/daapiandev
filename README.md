@@ -6,8 +6,7 @@
 
 <h3 align="center">Python,javascript,Go dev</h3>
 
-- 🔭 not working rn
-
+- 🔭 Developing fiverr gen!
 
 
 

@@ -6,7 +6,7 @@
 
 <h3 align="center">Python,javascript,Go dev</h3>
 
-- 🔭 working on fixing funkeraio an making tunnelbearvpn creator
+- 🔭 working on random projects
 
 
 

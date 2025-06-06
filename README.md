@@ -10,7 +10,7 @@
 
 
 
-<h3 align="left">Connect with me: daap._ (discord)</h3>
+<h3 align="left">Connect with me: daapianv2_70385 (discord)</h3>
 <p align="left">
 </p>
 
